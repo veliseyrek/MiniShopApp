@@ -12,7 +12,7 @@ namespace MiniShopApp.WebUI.Extensions
 {
     public static class MigrationManager
     {
-        public static IHost MigrateDatabase(this IHost host)
+        public static IHost MigrateDatabese(this IHost host)
         {
             using (var scope = host.Services.CreateScope())
             {
@@ -24,8 +24,9 @@ namespace MiniShopApp.WebUI.Extensions
                     }
                     catch (Exception)
                     {
+
                         throw;
-                    };                   
+                    };
                 }
 
                 using (var miniShopContext = scope.ServiceProvider.GetRequiredService<MiniShopContext>())
@@ -36,6 +37,7 @@ namespace MiniShopApp.WebUI.Extensions
                     }
                     catch (Exception)
                     {
+
                         throw;
                     };
                 }

@@ -1,0 +1,24 @@
+C:\Users\hp\Desktop\Web_6_Projects-Validation\Week_14\MiniShopApp\MiniShopApp.Entity\bin\Release\net5.0\MiniShopApp.Entity.deps.json
+C:\Users\hp\Desktop\Web_6_Projects-Validation\Week_14\MiniShopApp\MiniShopApp.Entity\bin\Release\net5.0\MiniShopApp.Entity.dll
+C:\Users\hp\Desktop\Web_6_Projects-Validation\Week_14\MiniShopApp\MiniShopApp.Entity\bin\Release\net5.0\MiniShopApp.Entity.pdb
+C:\Users\hp\Desktop\Web_6_Projects-Validation\Week_14\MiniShopApp\MiniShopApp.Entity\obj\Release\net5.0\MiniShopApp.Entity.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Web_6_Projects-Validation\Week_14\MiniShopApp\MiniShopApp.Entity\obj\Release\net5.0\MiniShopApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Web_6_Projects-Validation\Week_14\MiniShopApp\MiniShopApp.Entity\obj\Release\net5.0\MiniShopApp.Entity.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Web_6_Projects-Validation\Week_14\MiniShopApp\MiniShopApp.Entity\obj\Release\net5.0\MiniShopApp.Entity.AssemblyInfo.cs
+C:\Users\hp\Desktop\Web_6_Projects-Validation\Week_14\MiniShopApp\MiniShopApp.Entity\obj\Release\net5.0\MiniShopApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Web_6_Projects-Validation\Week_14\MiniShopApp\MiniShopApp.Entity\obj\Release\net5.0\MiniShopApp.Entity.dll
+C:\Users\hp\Desktop\Web_6_Projects-Validation\Week_14\MiniShopApp\MiniShopApp.Entity\obj\Release\net5.0\refint\MiniShopApp.Entity.dll
+C:\Users\hp\Desktop\Web_6_Projects-Validation\Week_14\MiniShopApp\MiniShopApp.Entity\obj\Release\net5.0\MiniShopApp.Entity.pdb
+C:\Users\hp\Desktop\Web_6_Projects-Validation\Week_14\MiniShopApp\MiniShopApp.Entity\obj\Release\net5.0\ref\MiniShopApp.Entity.dll
+C:\Users\hp\Desktop\Veli Seyrek\MiniShopApp\MiniShopApp\MiniShopApp.Entity\bin\Release\net5.0\MiniShopApp.Entity.deps.json
+C:\Users\hp\Desktop\Veli Seyrek\MiniShopApp\MiniShopApp\MiniShopApp.Entity\bin\Release\net5.0\MiniShopApp.Entity.dll
+C:\Users\hp\Desktop\Veli Seyrek\MiniShopApp\MiniShopApp\MiniShopApp.Entity\bin\Release\net5.0\MiniShopApp.Entity.pdb
+C:\Users\hp\Desktop\Veli Seyrek\MiniShopApp\MiniShopApp\MiniShopApp.Entity\obj\Release\net5.0\MiniShopApp.Entity.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Veli Seyrek\MiniShopApp\MiniShopApp\MiniShopApp.Entity\obj\Release\net5.0\MiniShopApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Veli Seyrek\MiniShopApp\MiniShopApp\MiniShopApp.Entity\obj\Release\net5.0\MiniShopApp.Entity.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Veli Seyrek\MiniShopApp\MiniShopApp\MiniShopApp.Entity\obj\Release\net5.0\MiniShopApp.Entity.AssemblyInfo.cs
+C:\Users\hp\Desktop\Veli Seyrek\MiniShopApp\MiniShopApp\MiniShopApp.Entity\obj\Release\net5.0\MiniShopApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Veli Seyrek\MiniShopApp\MiniShopApp\MiniShopApp.Entity\obj\Release\net5.0\MiniShopApp.Entity.dll
+C:\Users\hp\Desktop\Veli Seyrek\MiniShopApp\MiniShopApp\MiniShopApp.Entity\obj\Release\net5.0\refint\MiniShopApp.Entity.dll
+C:\Users\hp\Desktop\Veli Seyrek\MiniShopApp\MiniShopApp\MiniShopApp.Entity\obj\Release\net5.0\MiniShopApp.Entity.pdb
+C:\Users\hp\Desktop\Veli Seyrek\MiniShopApp\MiniShopApp\MiniShopApp.Entity\obj\Release\net5.0\ref\MiniShopApp.Entity.dll
