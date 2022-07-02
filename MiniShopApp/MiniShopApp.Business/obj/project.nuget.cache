@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Sl9VfbOGODzme8ukO/+xs6bvJ59gGzIsrgCa2EVXGRuKG7/SNujVgWpYPFv5QklpFo5iIBdpZHTfsd98s6kwA==",
+  "dgSpecHash": "jJ66bYTZPspuzVPmKsG/sTmLv0qMASqmaYhTKxYrTEGmiBjdJ8RTiVE0qZnT0bmnpbfIUQIwV76AwXtYMUhpRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Desktop\\Veli Seyrek\\MiniShopApp\\MiniShopApp\\MiniShopApp.Business\\MiniShopApp.Business.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\Web_6_Projects-Validation\\Week_14\\MiniShopApp\\MiniShopApp.Business\\MiniShopApp.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

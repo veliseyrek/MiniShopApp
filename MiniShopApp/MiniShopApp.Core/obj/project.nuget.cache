@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l75SRvOwP3c6DCwn46B1Efnl+C0EhiOy8GIJl/+trSTUEPDW2SNsWEXFo6EZb8z9NpZMMpbI2J2wlDqFoDE9GQ==",
+  "dgSpecHash": "DsrJSo0hxb0DTbzD4Wystiimt7L8ltBKTiBJ8awyMv/ByLKmFWfIsfiQ45Xa7HunBQN8NYQrJyBdcTqfqSoNJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Desktop\\Veli Seyrek\\MiniShopApp\\MiniShopApp\\MiniShopApp.Core\\MiniShopApp.Core.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\Web_6_Projects-Validation\\Week_14\\MiniShopApp\\MiniShopApp.Core\\MiniShopApp.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
