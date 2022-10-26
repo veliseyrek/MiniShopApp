@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DSsnAUOnDcz6r7ilYoZhLKiHOGYUzq0dIu6zMb3PUQTq8YUCuhzhuxABrX73OyWE418rhRwkmRSeCPEpzB1ARA==",
+  "dgSpecHash": "TpEDBfpKES162AS7bHzg/IwxPLlaMVh35PDeppJMLMBkU92HrLhgkIhoLlO+lEwvPVt46lQmgwe4cEkBbkM26A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Desktop\\Web_6_Projects-Validation\\Week_14\\MiniShopApp\\MiniShopApp.WebUI\\MiniShopApp.WebUI.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\Veli Seyrek\\MiniShopApp\\MiniShopApp\\MiniShopApp.WebUI\\MiniShopApp.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\iyzipay\\2.1.39\\iyzipay.2.1.39.nupkg.sha512",
